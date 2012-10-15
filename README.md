@@ -7,7 +7,7 @@ of sources such as a properties file, command line or programmatically assigned.
 
 ## Building
 
-Most of the code is in the <b><strong>config.prop</b></strong> file. A sample application
+Most of the code is in the <b><strong>Config.java</b></strong> file. A sample application
 is provided in <b><strong>TestConfig.java</b></strong>.
 To build the sample application, just run:
 
