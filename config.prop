@@ -1,0 +1,10 @@
+host = google.com
+port = 8080
+debug = false
+producers = 50
+queues = 25
+messages = 4000000
+rate = 4.25
+speed = 1.789e32
+release = gold
+# hello = world
